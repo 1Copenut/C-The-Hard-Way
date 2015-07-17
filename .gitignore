@@ -1,0 +1,14 @@
+# Ignore all
+*
+
+# Ignore all with extension .swp
+*.swp
+
+# Unignore all with extension .c
+!*.c
+
+# Unignore .gitignore
+!**.gitignore
+
+# Unignore all dirs
+!*/
