@@ -10,5 +10,8 @@
 # Unignore .gitignore
 !**.gitignore
 
+#Unignore Makefiles
+!Makefile
+
 # Unignore all dirs
 !*/
